@@ -1,0 +1,15 @@
+{
+  "email": "test@email.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "dateOfBirth": "1989-11-09T00:00:00",
+  "mailingCity": "TestCity",
+  "mailingPostcode": "E1 8AX",
+  "mailingState": "TestState",
+  "mailingStreet": "TestStreet",
+  "mailingCountry": "TestCountry",
+  "movedInDate": "1989-11-09T00:00:00",
+  "mobile": "07777777777",
+  "homeOwnership": "1",
+  "telephone": "02077777777"
+}
